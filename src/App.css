@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+}
+
+
+.card1{
+  width: 400px;
+  height: 700px;
+  /* flex-flow: initial; */
+  border-radius: 10px;
+  box-shadow:0 2px 4px rgba(0, 0, 0, .1), 0 8px 16px rgba(0, 0, 0, .1);
+
+}
+
+
+
+.firstdiv{
+  align-items: center;
+}
